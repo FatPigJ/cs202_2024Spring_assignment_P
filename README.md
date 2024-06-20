@@ -5,4 +5,6 @@ Assignments为课程布置的作业
 
 机考Cheat Sheet为机考Cheat Sheet
 
+笔试Cheat Sheet 为笔试Cheat Sheet
+
 题目练习为课外部分练习
