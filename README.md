@@ -8,3 +8,5 @@ Assignments为课程布置的作业
 笔试Cheat Sheet 为笔试Cheat Sheet
 
 题目练习为课外部分练习
+
+课程资料与情报
